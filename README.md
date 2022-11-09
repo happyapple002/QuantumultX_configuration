@@ -1,3 +1,3 @@
-# QuantumultX_configuration （自用配置）
+# QuantumultX_configuration
 
-所有配置皆搜集自网上，而后根据自己的需要进行调整
+搬运自**https://github.com/w37fhy/QuantumultX.git**，而后根据自己的习惯进行调整
