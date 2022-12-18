@@ -198,6 +198,7 @@ USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 
 # > 其他google服务
+
 HOST,crl.pki.goog
 HOST,fonts.googleapis.com
 HOST,fonts.gstatic.com
@@ -919,17 +920,17 @@ HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 HOST-SUFFIX,xplr.co
 HOST-SUFFIX,zukunftswerkstatt.de
 HOST-SUFFIX,zynamics.com
-HOST-SUFFIXdrive.com
-HOST-SUFFIXusercontent.com
+HOST-SUFFIX,googledrive.com
+HOST-SUFFIX,googleusercontent.com
 HOST-KEYWORD,appspot
 HOST-KEYWORD,blogspot
 HOST-KEYWORD,gmail
-HOST-KEYWORD
+HOST-KEYWORD,google
 HOST-KEYWORD,gstatic
 HOST-KEYWORD,recaptcha
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*
-USER-AGENT.Drive*
+USER-AGENT,Google.Drive*
 IP-CIDR,172.110.32.0/21
 IP-CIDR,173.194.0.0/16
 IP-CIDR,216.73.80.0/20
