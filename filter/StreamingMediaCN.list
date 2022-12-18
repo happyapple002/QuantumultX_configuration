@@ -1,66 +1,66 @@
 #国内流媒体
 # (Video)
 # > Acfun
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,aixifan.com
+HOST-SUFFIX,acfun.cn
+HOST-SUFFIX,aixifan.com
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
+HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.com
+HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,hdslb.com
 # > Tencent Video
-DOMAIN-SUFFIX,video.qq.com
-DOMAIN-SUFFIX,i.qq.com
-DOMAIN-SUFFIX,v.qq.com
+HOST-SUFFIX,video.qq.com
+HOST-SUFFIX,i.qq.com
+HOST-SUFFIX,v.qq.com
 # > iQiyi
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,71edge.com
+HOST-SUFFIX,iqiyi.com
+HOST-SUFFIX,71edge.com
 # > Youku
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,ykimg.com
+HOST-SUFFIX,soku.com
+HOST-SUFFIX,youku.com
+HOST-SUFFIX,ykimg.com
 # > XiGua
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,snssdk.com
+HOST-SUFFIX,ixigua.com
+HOST-SUFFIX,snssdk.com
 # > HunanTV
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,hunantv.com
-DOMAIN-SUFFIX,mgtv.com
+HOST-SUFFIX,hitv.com
+HOST-SUFFIX,hunantv.com
+HOST-SUFFIX,mgtv.com
 # > Le
-DOMAIN-SUFFIX,le.com
+HOST-SUFFIX,le.com
 # > PPLive
-DOMAIN-SUFFIX,pplive.cn
-DOMAIN-SUFFIX,pptv.com
+HOST-SUFFIX,pplive.cn
+HOST-SUFFIX,pptv.com
 # > Sohu Video
-DOMAIN-SUFFIX,itc.cn
-DOMAIN-SUFFIX,sohu.com
+HOST-SUFFIX,itc.cn
+HOST-SUFFIX,sohu.com
 # > Migu Video
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,miguvideo.com
+HOST-SUFFIX,cmvideo.cn
+HOST-SUFFIX,miguvideo.com
 
 # (Music)
 # > QQ Music
-DOMAIN-SUFFIX,music.qq.com
-DOMAIN-SUFFIX,music.tc.qq.com
-DOMAIN-SUFFIX,qqmusic.qq.com
-DOMAIN-SUFFIX,tencentmusic.com
-DOMAIN-SUFFIX,y.qq.com
-DOMAIN,aqqmusic.tc.qq.com
-DOMAIN,moo.qq.com
+HOST-SUFFIX,music.qq.com
+HOST-SUFFIX,music.tc.qq.com
+HOST-SUFFIX,qqmusic.qq.com
+HOST-SUFFIX,tencentmusic.com
+HOST-SUFFIX,y.qq.com
+HOST,aqqmusic.tc.qq.com
+HOST,moo.qq.com
 # > China Music Corp
-DOMAIN-SUFFIX,kuwo.cn
-DOMAIN-SUFFIX,kugou.com
+HOST-SUFFIX,kuwo.cn
+HOST-SUFFIX,kugou.com
 # > Netease Cloud Music
-DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN,mam.netease.com
-DOMAIN,api.iplay.163.com
+HOST-SUFFIX,music.163.com
+HOST-SUFFIX,music.126.net
+HOST,mam.netease.com
+HOST,api.iplay.163.com
 # > Qianqian Music
-DOMAIN-SUFFIX,qianqian.com
-DOMAIN-SUFFIX,taihe.com
+HOST-SUFFIX,qianqian.com
+HOST-SUFFIX,taihe.com
 # > Migu Music
-DOMAIN-SUFFIX,migu.cn
+HOST-SUFFIX,migu.cn
 # > Xiaomi
-DOMAIN-SUFFIX,ai.xiaomi.com
-DOMAIN-SUFFIX,music.xiaomi.com
-DOMAIN-SUFFIX,dmhmusic.com
+HOST-SUFFIX,ai.xiaomi.com
+HOST-SUFFIX,music.xiaomi.com
+HOST-SUFFIX,dmhmusic.com
