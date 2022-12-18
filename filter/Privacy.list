@@ -1,40 +1,40 @@
 #隐私保护
 # Privacy
-HOST-SUFFIX,adjust.comHOST
-HOST-SUFFIX,cpatrk.netHOST
-HOST-SUFFIX,kochava.comHOST
-HOST-SUFFIX,marketo.comHOST
-HOST-SUFFIX,mobileapptracking.comHOST
-HOST-SUFFIX,rtbasia.comHOST
-HOST-SUFFIX,scorecardresearch.comHOST
-HOST-SUFFIX,sumologic.comHOST
-HOST-SUFFIX,survicate.comHOST
-HOST-SUFFIX,tagcommander.comHOST
-HOST-SUFFIX,tailtarget.comHOST
-HOST-SUFFIX,talkingdata.netHOST
-HOST-SUFFIX,tapad.comHOST
-HOST-SUFFIX,tapfiliate.comHOST
-HOST-SUFFIX,tapinfluence.comHOST
-HOST-SUFFIX,tapstream.comHOST
-HOST-SUFFIX,tealiumiq.comHOST
-HOST-SUFFIX,tend.ioHOST
-HOST-SUFFIX,tpctrust.comHOST
-HOST-SUFFIX,trackingio.comHOST
-HOST-SUFFIX,tremormedia.comHOST
-HOST-SUFFIX,woopra.comHOST
-HOST-SUFFIX,wootric.comHOST
-HOST-SUFFIX,wowanalytics.co.ukHOST
-HOST-SUFFIX,zoomanalytics.coHOST
+HOST-SUFFIX,adjust.com
+HOST-SUFFIX,cpatrk.net
+HOST-SUFFIX,kochava.com
+HOST-SUFFIX,marketo.com
+HOST-SUFFIX,mobileapptracking.com
+HOST-SUFFIX,rtbasia.com
+HOST-SUFFIX,scorecardresearch.com
+HOST-SUFFIX,sumologic.com
+HOST-SUFFIX,survicate.com
+HOST-SUFFIX,tagcommander.com
+HOST-SUFFIX,tailtarget.com
+HOST-SUFFIX,talkingdata.net
+HOST-SUFFIX,tapad.com
+HOST-SUFFIX,tapfiliate.com
+HOST-SUFFIX,tapinfluence.com
+HOST-SUFFIX,tapstream.com
+HOST-SUFFIX,tealiumiq.com
+HOST-SUFFIX,tend.io
+HOST-SUFFIX,tpctrust.com
+HOST-SUFFIX,trackingio.com
+HOST-SUFFIX,tremormedia.com
+HOST-SUFFIX,woopra.com
+HOST-SUFFIX,wootric.com
+HOST-SUFFIX,wowanalytics.co.uk
+HOST-SUFFIX,zoomanalytics.co
 
-HOST,track.tenjin.comHOST
-HOST,track.tenjin.ioHOST
-HOST,api.talkingdata.comHOST
-HOST,track.tiara.daum.netHOST
-HOST,track.tiara.kakao.comHOST
-HOST,zgsdk.zhugeio.comHOST
+HOST,track.tenjin.com
+HOST,track.tenjin.io
+HOST,api.talkingdata.com
+HOST,track.tiara.daum.net
+HOST,track.tiara.kakao.com
+HOST,zgsdk.zhugeio.com
 
 # > 51.LA
-HOST,js.users.51.laHOST
+HOST,js.users.51.la
 HOST,mc.51.laHOST
 HOST,wc.51.laHOST
 # > 58
@@ -44,12 +44,12 @@ HOST,tracklog.58.comHOST
 HOST,hm.baidu.comHOST
 HOST,hmma.baidu.comHOST
 # > Google
-HOST-SUFFIX,googletagmanager.comHOST
-HOST-SUFFIX,google-analytics.comHOST
-HOST,safebrowsing.googleapis.comHOST
+HOST-SUFFIX,googletagmanager.com
+HOST-SUFFIX,google-analytics.com
+HOST,safebrowsing.googleapis.com
 # > MI
-HOST-SUFFIX,tracking.miui.comHOST
-HOST,data.mistat.xiaomi.comHOST
-HOST,tracking.intl.miui.comHOST
+HOST-SUFFIX,tracking.miui.com
+HOST,data.mistat.xiaomi.com
+HOST,tracking.intl.miui.com
 # > Tencent
-HOST,safebrowsing.urlsec.qq.comHOST
+HOST,safebrowsing.urlsec.qq.com
