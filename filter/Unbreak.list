@@ -1,25 +1,25 @@
 # Unbreak 修正规则
 # > General
-DOMAIN,app.adjust.com
-DOMAIN,app.appsflyer.com
-DOMAIN,bdtj.tagtic.cn
+HOST,app.adjust.com
+HOST,app.appsflyer.com
+HOST,bdtj.tagtic.cn
 # > Alibaba
-DOMAIN,log.mmstat.com
-DOMAIN,sycm.mmstat.com
+HOST,log.mmstat.com
+HOST,sycm.mmstat.com
 # > Google
-DOMAIN-SUFFIX,blog.google // Google Blog
-DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
-DOMAIN,clientservices.googleapis.com
-DOMAIN,update.googleapis.com
+HOST-SUFFIX,blog.google // Google Blog
+HOST-SUFFIX,googletraveladservices.com // Google Flights
+HOST,clientservices.googleapis.com
+HOST,update.googleapis.com
 # >> Paramount+
-# DOMAIN,pubads.g.doubleclick.net
+# HOST,pubads.g.doubleclick.net
 # > Tencent
-DOMAIN,fairplay.l.qq.com
-DOMAIN,livew.l.qq.com
-DOMAIN,vd.l.qq.com
-DOMAIN,vi.l.qq.com
+HOST,fairplay.l.qq.com
+HOST,livew.l.qq.com
+HOST,vd.l.qq.com
+HOST,vi.l.qq.com
 # > Strava
-DOMAIN,analytics.strava.com
+HOST,analytics.strava.com
 # > Umeng
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
+HOST,msg.umeng.com
+HOST,msg.umengcloud.com
