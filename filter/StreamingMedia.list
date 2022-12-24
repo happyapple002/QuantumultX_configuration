@@ -1,14 +1,5 @@
 #国际流媒体
 # Streaming Media
-# (Live)
-# > Twitch
-HOST-SUFFIX,ext-twitch.tv
-HOST-SUFFIX,jtvnw.net
-HOST-SUFFIX,ttvnw.net
-HOST-SUFFIX,twitch.tv
-HOST-SUFFIX,twitchcdn.net
-HOST-SUFFIX,twitch-ext.rootonline.de
-
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
