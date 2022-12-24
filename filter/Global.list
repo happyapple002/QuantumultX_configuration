@@ -315,7 +315,7 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
 # > Meta
 HOST-SUFFIX,accountkit.com
-HOST-SUFFIX,cdninstagram.com
+#HOST-SUFFIX,cdninstagram.com
 HOST-SUFFIX,f8.com
 HOST-SUFFIX,facebookmail.com
 HOST-SUFFIX,fb.com
@@ -325,7 +325,7 @@ HOST-SUFFIX,fbaddins.com
 HOST-SUFFIX,fbcdn.net
 HOST-SUFFIX,fbsbx.com
 HOST-SUFFIX,fbworkmail.com
-HOST-SUFFIX,instagram.com
+#HOST-SUFFIX,instagram.com
 HOST-SUFFIX,m.me
 HOST-SUFFIX,messenger.com
 HOST-SUFFIX,oculus.com
@@ -372,17 +372,6 @@ HOST-SUFFIX,nytimg.com
 HOST-SUFFIX,nytlog.com
 HOST-SUFFIX,nytstyle.com
 HOST-SUFFIX,tmagazine.com
-# > Twitter
-HOST-SUFFIX,periscope.tv
-HOST-SUFFIX,pscp.tv
-HOST-SUFFIX,t.co
-HOST-SUFFIX,tweetdeck.com
-HOST-SUFFIX,twimg.co
-HOST-SUFFIX,twimg.com
-HOST-SUFFIX,twitpic.com
-HOST-SUFFIX,twitter.com
-HOST-SUFFIX,twitter.jp
-HOST-SUFFIX,vine.co
 # > Wikimedia Foundation
 HOST-SUFFIX,mediawiki.org
 HOST-SUFFIX,wikibooks.org
