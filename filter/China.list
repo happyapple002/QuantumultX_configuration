@@ -34,9 +34,6 @@ IP-CIDR,203.205.254.0/23,no-resolve
 # > IP Query
 HOST,ip.istatmenus.app
 HOST,sms.imagetasks.com
-# > Speed Test
-HOST-SUFFIX,netspeedtestmaster.com
-HOST,speedtest.macpaw.com
 # > Private Tracker
 HOST-SUFFIX,acg.rip
 HOST-SUFFIX,animebytes.tv
