@@ -176,7 +176,6 @@ HOST-SUFFIX,worldcat.org
 HOST-SUFFIX,wsj.com
 HOST-SUFFIX,wsj.net
 HOST-SUFFIX,x.co
-HOST-SUFFIX,yandex.ru
 HOST-SUFFIX,you-get.org
 HOST-SUFFIX,zaobao.com
 HOST-SUFFIX,zello.com
@@ -389,9 +388,6 @@ HOST-SUFFIX,wiktionary.org
 # > Yahoo
 HOST-SUFFIX,yahoo.com
 HOST,search.yahoo.co.jp
-# > Yandex
-HOST-SUFFIX,yadi.sk
-HOST,disk.yandex.com
 
 # (Region-Restricted Access Denied)
 HOST-SUFFIX,aicoin.com
