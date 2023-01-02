@@ -349,11 +349,6 @@ HOST-KEYWORD,.pinterest.
 HOST-SUFFIX,pixiv.net
 HOST-SUFFIX,pixiv.org
 HOST-SUFFIX,pximg.net
-# > Reddit
-HOST-SUFFIX,redd.it
-HOST-SUFFIX,reddit.com
-HOST-SUFFIX,redditmedia.com
-HOST-SUFFIX,redditstatic.com
 # > Reuters
 HOST-SUFFIX,reuters.com
 HOST-SUFFIX,reutersmedia.net
