@@ -8018,7 +8018,7 @@ HOST-SUFFIX,xdrig.com
 HOST-SUFFIX,abema-adx.ameba.jp
 HOST-SUFFIX,ad.12306.cn
 HOST-SUFFIX,ad.51wnl-cq.com
-HOST-SUFFIX,ad.caiyunapp.com
+#HOST-SUFFIX,ad.caiyunapp.com
 HOST-SUFFIX,ad.huajiao.com
 HOST-SUFFIX,ad.hzyoka.com
 HOST-SUFFIX,ad.jiemian.com
