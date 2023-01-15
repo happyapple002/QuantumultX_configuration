@@ -494,7 +494,7 @@ HOST-SUFFIX,google.ch
 HOST-SUFFIX,google.ci
 HOST-SUFFIX,google.cl
 HOST-SUFFIX,google.cm
-HOST-SUFFIX,google.cn
+#HOST-SUFFIX,google.cn
 HOST-SUFFIX,google.co.ao
 HOST-SUFFIX,google.co.bw
 HOST-SUFFIX,google.co.ck
