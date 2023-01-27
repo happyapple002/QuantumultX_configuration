@@ -8,5 +8,6 @@ IP-CIDR,65.75.221.23/28
 HOST-SUFFIX,plusmedia.site
 #拨浪鼓
 HOST-SUFFIX,speedx.one
+IP-CIDR,162.55.225.218/16
 
 HOST-KEYWORD,emby
