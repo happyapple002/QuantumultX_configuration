@@ -1,5 +1,7 @@
 # NAME: Emby
 # Misakaf
 HOST-SUFFIX,cf3.misakaf.org
+#pornemby
+HOST-SUFFIX,pornemby.club
 
 HOST-KEYWORD,emby
