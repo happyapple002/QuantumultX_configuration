@@ -1,4 +1,5 @@
 # NAME: Emby
 # 普拉斯影业
 HOST-SUFFIX,emby-cf.plusmedia.site
+HOST-SUFFIX,emby.xeton.dev
 HOST-KEYWORD,emby
