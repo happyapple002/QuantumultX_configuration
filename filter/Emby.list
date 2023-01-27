@@ -3,7 +3,7 @@
 HOST-SUFFIX,misakaf.org
 #pornemby
 HOST-SUFFIX,pornemby.club
-IP-CIDR,65.75.221.23
+IP-CIDR,65.75.221.23/24
 #普拉斯
 HOST-SUFFIX,plusmedia.site
 #拨浪鼓
