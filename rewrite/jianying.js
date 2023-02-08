@@ -18,7 +18,7 @@ if ($request.url.indexOf('user_wallet_info') != -1){
     "can_buy_template_free":true
   }
 }
-$done()
+$done(JSON.stringify(obj));
 
 
 /**
