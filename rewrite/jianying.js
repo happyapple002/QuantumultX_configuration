@@ -1,7 +1,6 @@
+console.log('response---------',$response)
 var body = JSON.parse($response);
 var header = JSON.parse($header);
-console.log('header---------',header)
-console.log('body-----------',body)
 if ($request.url.indexOf('user_wallet_info') != -1){
   body = {
     "sign" : "MJEUGpMz8xv2zeY4O5Jk7MrjVVYFfqlby8Fa+N9jVoT5gJXWqHqlP974pdmfENakn7S0+X25Wzjj4GYsXt/Z3jZdhjAxaZtZBID8wvQ29czvrjREHfLIEbLJmz2N57WY8dZQ4HsVxZtTNEBYP7R3LMU/u7nMDbdL4z9KOiWKlhU=",
