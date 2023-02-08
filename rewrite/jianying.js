@@ -1,4 +1,6 @@
-
+console.log('剪映')
+$done()
+/**
 var body = JSON.parse($response);
 console.log('response---------',body)
 var header = JSON.parse($header);
@@ -28,3 +30,4 @@ if ($request.url.indexOf('user_wallet_info') != -1){
 }
 $done({body : JSON.stringify(body)});
 
+**/
