@@ -1,5 +1,5 @@
 var body = JSON.parse($response);
-var header = JSON.parse($response);
+var header = JSON.parse($header);
 console.log('header',header)
  console.log('body',body)
 if ($request.url.indexOf('user_wallet_info') != -1){
