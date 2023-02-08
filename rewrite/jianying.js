@@ -13,7 +13,14 @@ if ($request.url.indexOf('user_wallet_info') != -1){
       "currency_code" : "CNY",
       "can_buy_template_free" : true
     },
-  "response" : "{\"user_id\":2392174938823367,\"total_money\":0,\"current_money\":0,\"currency_code\":\"CNY\",\"latest_record_time\":0,\"can_buy_template_free\":true}",
+  "response" : {
+    "user_id":2392174938823367,
+    "total_money":0,
+    "current_money":0,
+    "currency_code":"CNY",
+    "latest_record_time":0,
+    "can_buy_template_free":true
+  },
   "systime" : "1675816450429",
   "errmsg" : "success",
   "ret" : "0"
