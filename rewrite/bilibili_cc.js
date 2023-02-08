@@ -1,7 +1,3 @@
-/**
-from:https://raw.githubusercontent.com/ddgksf2013/Scripts/master/bilibili_cc.js
-**/
-
 var cuttlefish ={"warning":"本腳本僅供學習交流使用，禁止轉載售賣","tgchannel":"https://t.me/ddgksf2021","feedback":"ddgksf2013@163.com"};
 
 var ddgksf2013 = JSON.parse($response.body);
