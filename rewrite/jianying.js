@@ -2,7 +2,7 @@ console.log('剪映')
 
 var body = $response.body;
 var obj = JSON.parse(body);
-console.log(obj)
+console.log(obj.data)
 
 $done()
 
