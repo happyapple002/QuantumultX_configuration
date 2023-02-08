@@ -1,5 +1,9 @@
 console.log('剪映')
 $done()
+
+var body = $response.body;
+var obj = JSON.parse(body);
+console.log(obj)
 /**
 var body = JSON.parse($response);
 console.log('response---------',body)
