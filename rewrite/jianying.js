@@ -1,7 +1,8 @@
-
+var body = {}
+var header = {}
 if ($request.url.indexOf('user_wallet_info') != -1){
-  var body = JSON.parse($response.body);
-  var header = JSON.parse($response.header);
+  body = JSON.parse($response.body);
+  header = JSON.parse($response.header);
   console.log('header',header)
   console.log('body',body)
   body = {
